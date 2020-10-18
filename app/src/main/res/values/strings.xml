@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherForecastApp</string>
+    <string name="no_daily_forecast_data">No forcast data</string>
+</resources>
